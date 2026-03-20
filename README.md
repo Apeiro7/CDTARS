@@ -1,8 +1,8 @@
 # 🚦 CDTARS – Collision Detection & Traffic Analysis in Real-Time Systems
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/CDTARS?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/CDTARS?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/your-username/CDTARS?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Apeiro7/CDTARS?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Apeiro7/CDTARS?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Apeiro7/CDTARS?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)
 ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Research%20Project-green?style=for-the-badge)
