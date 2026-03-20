@@ -172,6 +172,57 @@ CDTARS aims to:
 
 ---
 
+## 🎥 Demo  
+
+### Sample Frame with Bounding Boxes:  
+<img src="assets/output1.png" width="600"/>
+
+
+
+
+---
+
+## ⚙️ Installation  
+
+Clone the repository and install dependencies:  
+
+```bash
+git clone https://github.com/yourusername/vehicle-detection.git
+cd vehicle-detection
+pip install -r requirements.txt
+```
+
+---
+
+## 🚀 Usage  
+
+Run the Jupyter Notebook:  
+
+```bash
+jupyter notebook CDTARS.ipynb
+```
+
+Or directly run the script (if available):  
+
+```bash
+python detect.py --input sample_video.mp4
+```
+
+---
+
+## 📊 Results & Visualization  
+
+Vehicle counts over time:  
+
+<img src="assets/output4.jpeg" width="600"/> 
+
+Detection confidence graph:  
+
+<img src="assets/output2.png" width="600"/>
+<img src="assets/output3.png" width="600"/>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
